@@ -210,3 +210,6 @@ echo -e "\n# MinIO data\ndata/" >> .gitignore
 
 # MinIO data
 data/
+
+# Airflow logs
+logs/
